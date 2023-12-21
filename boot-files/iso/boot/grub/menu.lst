@@ -1,0 +1,4 @@
+
+title StensLinux
+kernel /boot/bzImage
+initrd /boot/init.cpio
